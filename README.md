@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm currently working as a **Data Scientist/Engineer** for [Scigility](https://github.com/scigility).
+
+- Currently based in: Switzerland 🇨🇭
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/edoardoabati/)
+
 <!--
 **EdAbati/EdAbati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
