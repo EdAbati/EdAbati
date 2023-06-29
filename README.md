@@ -2,8 +2,11 @@
 
 I'm currently working as a **Data Scientist/Engineer** for [Scigility](https://github.com/scigility).
 
-- Currently based in: Switzerland 🇨🇭
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/edoardoabati/)
+- Based in: Switzerland 🇨🇭
+- I've contributed to: [scikit-learn](https://github.com/scikit-learn/scikit-learn), [skops](https://github.com/skops-dev/skops), [pandas](https://github.com/pandas-dev/pandas), [setfit](https://github.com/huggingface/setfit)
+- Personal projects and demos: [Weak Supervision and Deep Learning with text data](https://github.com/EdAbati/fsdl-2022-weak-supervision-project)
+
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/edoardoabati/)
 
 <!--
 **EdAbati/EdAbati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
