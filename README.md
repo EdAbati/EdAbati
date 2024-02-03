@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-I'm currently working as a **Data Scientist/Engineer** for [Scigility](https://github.com/scigility).
+I'm currently working as an **Applied ML Scientist** at [Thomson Reuters Labs](https://www.thomsonreuters.com/en/careers/our-jobs/join-thomson-reuters-labs.html).
 
-- Based in: Switzerland 🇨🇭
 - I've contributed to: [scikit-learn](https://github.com/scikit-learn/scikit-learn), [skops](https://github.com/skops-dev/skops), [pandas](https://github.com/pandas-dev/pandas), [setfit](https://github.com/huggingface/setfit)
 - Personal projects and demos: [Weak Supervision and Deep Learning with text data](https://github.com/EdAbati/fsdl-2022-weak-supervision-project)
 
