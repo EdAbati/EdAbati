@@ -1,11 +1,29 @@
 ### Hi there 👋
 
-I'm currently working as an **Applied ML Scientist** at [Thomson Reuters Labs](https://www.thomsonreuters.com/en/careers/our-jobs/join-thomson-reuters-labs.html).
+#### 💼 Work
 
-- I've contributed to: [scikit-learn](https://github.com/scikit-learn/scikit-learn), [skops](https://github.com/skops-dev/skops), [pandas](https://github.com/pandas-dev/pandas), [setfit](https://github.com/huggingface/setfit)
-- Personal projects and demos: [Weak Supervision and Deep Learning with text data](https://github.com/EdAbati/fsdl-2022-weak-supervision-project)
+_Applied ML Scientist_ at [Thomson Reuters Labs](https://www.thomsonreuters.com/en/careers/our-jobs/join-thomson-reuters-labs.html).
 
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/edoardoabati/)
+#### 🤝 Open Source Projects
+
+I currently mostly contributing to:
+
+- [`narwhals`](https://github.com/narwhals-dev/narwhals)
+- [`scikit-learn`](https://github.com/scikit-learn/scikit-learn)
+
+I've also added some commits to: [skops](https://github.com/skops-dev/skops), [pandas](https://github.com/pandas-dev/pandas), [setfit](https://github.com/huggingface/setfit), [haystack](https://github.com/deepset-ai/haystack)
+
+#### 💡 Personal projects and demos
+
+- [`dataframe_haystack`](https://github.com/EdAbati/dataframes-haystack)
+- "[Weak Supervision and Deep Learning with text data](https://github.com/EdAbati/fsdl-2022-weak-supervision-project)" for [FSDL 2022](https://fullstackdeeplearning.com/course/2022/)
+
+
+📫 How to reach me: 
+
+- [LinkedIn](https://www.linkedin.com/in/edoardoabati/)
+- [Mastodon](https://mastodon.social/@EdoAbati)
+
 
 <!--
 **EdAbati/EdAbati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
