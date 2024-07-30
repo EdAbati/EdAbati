@@ -6,7 +6,7 @@ _Applied ML Scientist_ at [Thomson Reuters Labs](https://www.thomsonreuters.com/
 
 #### 🤝 Open Source Projects
 
-I currently mostly contributing to:
+I'm currently mostly contributing to:
 
 - [`narwhals`](https://github.com/narwhals-dev/narwhals)
 - [`scikit-learn`](https://github.com/scikit-learn/scikit-learn)
