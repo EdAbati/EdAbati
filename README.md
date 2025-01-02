@@ -15,6 +15,7 @@ I've also added some commits to: [skops](https://github.com/skops-dev/skops), [p
 
 #### 💡 Personal projects and demos
 
+- [`outlines_haystack`](https://github.com/EdAbati/outlines-haystack)
 - [`dataframe_haystack`](https://github.com/EdAbati/dataframes-haystack)
 - "[Weak Supervision and Deep Learning with text data](https://github.com/EdAbati/fsdl-2022-weak-supervision-project)" for [FSDL 2022](https://fullstackdeeplearning.com/course/2022/)
 
