@@ -2,7 +2,7 @@
 
 #### 💼 Work
 
-_Applied ML Scientist_ at [Thomson Reuters Labs](https://www.thomsonreuters.com/en/careers/our-jobs/join-thomson-reuters-labs.html).
+_Senior ML Scientist_ at [Thomson Reuters Labs](https://www.thomsonreuters.com/en/careers/our-jobs/join-thomson-reuters-labs.html).
 
 #### 🤝 Open Source Projects
 
