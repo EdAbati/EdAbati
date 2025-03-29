@@ -22,8 +22,9 @@ I've also added some commits to: [skops](https://github.com/skops-dev/skops), [p
 
 📫 How to reach me: 
 
-- [LinkedIn](https://www.linkedin.com/in/edoardoabati/)
-- [Mastodon](https://mastodon.social/@EdoAbati)
+[![mastodon-badge](https://img.shields.io/badge/Mastodon-EdoAbati-563ACC?style=flat&logo=mastodon&logoColor=white)](https://mastodon.social/@EdoAbati)
+[![bluesky-badge](https://img.shields.io/badge/Bluesky-EdoAbati-3686f7?style=flat&logo=bluesky&logoColor=white)](https://bsky.app/profile/edoabati.bsky.social)
+[![linkedin-badge](https://img.shields.io/badge/LinkedIn-EdoAbati-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edoardoabati/)
 
 
 <!--
